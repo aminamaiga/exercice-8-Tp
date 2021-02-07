@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercice8</string>
+    <string name="horaire_application">Horaire Application</string>
+    <string name="d_part">Départ</string>
+    <string name="votre_d_part">votre départ</string>
+    <string name="arriv_e">Arrivée</string>
+    <string name="votre_arriv_e">votre Arrivée</string>
+</resources>
